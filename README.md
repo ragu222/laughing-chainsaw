@@ -12,4 +12,7 @@ For example, I know I'm looking for the 21st string element (the MAC address int
 
 My intention is to take this functional, yet narrow use case, script and generalize it.
 
-
+Dependencies:
+python-curl
+python-numpy
+python-bs4
