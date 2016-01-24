@@ -1,8 +1,5 @@
 # laughing-chainsaw
-Simple Web Scraper
-
-# laughing-chainsaw
-Simple Web Scraper
+##Simple Web Scraper
 
 This is a python script to scrape printer's configuration pages for MAC addresses.
 
@@ -13,7 +10,6 @@ This script is for a very specific purpose on a very specific set of IP addresse
 
 For example, I know I'm looking for the 21st string element (the MAC address inthis case) in the HTML.
 
-My intention is to take this functional, yet narrow use case, script and general
-ize it as much as I can.
+My intention is to take this functional, yet narrow use case, script and generalize it.
 
 
